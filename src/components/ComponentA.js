@@ -6,7 +6,7 @@ const ComponentA = () => {
         <div class="componentA">
             
             <ComponentB />
-            <h1>Component A</h1>
+            <h1>Hooks Component A</h1>
         </div>
     );
 };

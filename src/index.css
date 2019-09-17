@@ -17,7 +17,7 @@ code {
   margin: 0 auto;
   border: 5px Solid Black;
   background-color: lightskyblue;
-  padding: 10px;
+  padding: 6px;
   margin: 10px auto;
 }
 
@@ -26,7 +26,7 @@ code {
   margin: 0 auto;
   border: 5px Solid Black;
   background-color: white;
-  padding: 10px;
+  padding: 6px;
   margin: 10px auto;
 }
 
@@ -35,6 +35,6 @@ code {
   margin: 0 auto;
   border: 5px Solid Black;
   background-color: greenyellow;
-  padding: 10px;
+  padding: 6px;
   margin: 10px auto;
 }

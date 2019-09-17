@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import ComponentA from './components/ComponentA';
+import ClassComponentA from './components/ClassComponentA'
 
 export const UserContext = React.createContext() // initialize context
 export const ChannelContext = React.createContext()
@@ -13,6 +14,7 @@ function App() {
       <ComponentA />
       </ChannelContext.Provider>
       </UserContext.Provider>
+      <ClassComponentA />
     </div>
   );
 }

@@ -10,7 +10,7 @@ const ComponentB = () => {
     return (
         <div class="componentB">
             <ComponentC />
-            <h1>Component B</h1>
+            <h1>Hooks Component B</h1>
             <h4>{user} - {channel}</h4>
         </div>
     );

@@ -11,7 +11,7 @@ const ComponentC = () => {
               {channel => {
                 return (
                   <div className="componentC">
-                    <h1>Component C</h1>
+                    <h1>Hooks Component C</h1>
                     <h4>User context value: {user}</h4>
                     <h4>channel context value {channel}</h4>
                   </div>
